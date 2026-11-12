@@ -1,5 +1,13 @@
 # Changelog
 
+## [6.10.0](https://github.com/morluto/rea/compare/rea-agents-6.9.0...rea-agents-6.10.0) (2026-11-12)
+
+
+### Bug Fixes
+
+* **ci:** defer proposals for merged release commits ([5eef239](https://github.com/morluto/rea/commit/5eef239dfd774331d622aaa4762f42fa632121ab))
+* **release:** validate notes with the publication parser ([653c494](https://github.com/morluto/rea/commit/653c49419e65515d5567ebf13c0e6dd2ac794f7e))
+
 ## [6.9.0](https://github.com/morluto/rea/compare/rea-agents-6.8.0...rea-agents-6.9.0) (2026-11-11)
 
 ### Highlights
